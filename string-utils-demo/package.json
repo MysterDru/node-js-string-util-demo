@@ -1,0 +1,16 @@
+{
+  "name": "string-utils-demo",
+  "description": "a mini module for string methods (for a demo)",
+  "version": "0.0.3",
+  "author": "Drew Frisk",
+  "dependencies": {},
+  "devDependencies": {},
+  "main": "strings.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "strings"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "",
+  "description": "",
+  "version": "0.1.0",
+  "author": "",
+  "dependencies": {
+    "string-utils-demo": "0.0.3",
+    "read": "~1.0.5"
+  },
+  "devDependencies": {}
+}
